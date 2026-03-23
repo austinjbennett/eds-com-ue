@@ -1,12 +1,12 @@
 {
   "mappings": [
-    "/content/eds-com-ue/:/",
-    "/content/eds-com-ue/configuration:/.helix/config.json",
-    "/content/eds-com-ue/headers:/.helix/headers.json",
-    "/content/eds-com-ue/metadata:/metadata.json",
-    "/content/eds-com-ue.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
+    "/content/eds-commerce-ue/:/",
+    "/content/eds-commerce-ue/configuration:/.helix/config.json",
+    "/content/eds-commerce-ue/headers:/.helix/headers.json",
+    "/content/eds-commerce-ue/metadata:/metadata.json",
+    "/content/eds-commerce-ue.resource/enrichment/enrichment.json:/enrichment/enrichment.json"
   ],
   "includes": [
-    "/content/eds-com-ue/"
+    "/content/eds-commerce-ue/"
   ]
 }

@@ -1,7 +1,7 @@
 {
   "public": {
     "default": {
-      "commerce-endpoint": "https://main--eds-com-ue--austinjbennett.aem.page/graphql",
+      "commerce-endpoint": "https://main--eds-commerce-ue--austinjbennett.aem.page/graphql",
       "headers": {
         "cs": {
           "AC-View-ID": "{{HEADER_VALUE}}",
